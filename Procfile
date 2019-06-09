@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT connor_enterprises_4418.wsgi:application
